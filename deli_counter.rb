@@ -16,4 +16,5 @@ end
 
 def take_a_number(line, name)
   message = []
-  if line.length == 0
+  if line.length == 0,
+    
