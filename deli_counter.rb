@@ -14,7 +14,5 @@ def line(array)
   end
 end
 
-def take_a_number(line, name)
-  message = []
-  if line.length == 0,
-    
+def take_a_number(array, name)
+  
